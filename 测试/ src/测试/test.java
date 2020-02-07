@@ -1,9 +1,5 @@
 package test;
-/*
- * 冲突测试
- * 
- * */
-
+//注释
 public class test {
 
 }
